@@ -1,7 +1,7 @@
 ![](https://img.shields.io/github/last-commit/staedi/nCOV-summary/master) ![](https://img.shields.io/github/commit-activity/w/staedi/nCOV-summary)
 
 # nCOV-summary
-Novel COVID-19 virus summary dataset which is updated daily at 4PM KST(GMT+9)
+Novel COVID-19 virus summary dataset which is updated daily at 3PM KST(GMT+9)
 
 ## Data Sources
 * [Johns Hopkins University CSSE](https://github.com/CSSEGISandData/COVID-19): Prime source for global Novel COVID-19 status
